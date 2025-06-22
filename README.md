@@ -10,8 +10,7 @@ Acest proiect conține două aplicații separate: UnaRetail pentru Android și U
 - Ghid_Build_Desktop.docx – pașii detaliați pentru Desktop (Windows)
 - myapp-release-key.jks – cheia pentru semnarea aplicației Android
 - server.py – fișier Python pentru instalare locală pe Android
-- apk/UnaRetail_1.33.apk – aplicația Android finală, semnată
-- extensii/ – fișiere și linkuri utile (ex: instalatoare)
+
 
 ---
 
@@ -69,13 +68,11 @@ Asigură-te că ai instalate:
    D:\…\build…\release\UnaRetail.exe
 
 
-## 🔗 Linkuri utile pentru instalare (vezi și folderul extensii/)
+## 🔗 Linkuri utile pentru instalare
 
 1) Visual Studio 2019 Installer: https://visualstudio.microsoft.com/vs/older-downloads/
 
-2) JDK 8 (Adoptium): https://adoptium.net/en-GB/temurin/releases/
-
-3) Android SDK (standalone): https://developer.android.com/studio
+2) JDK 8: https://adoptium.net/en-GB/temurin/releases/
 
 4) Python 3: https://www.python.org/downloads/
 
