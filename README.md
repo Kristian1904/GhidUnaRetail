@@ -76,5 +76,5 @@ Asigură-te că ai instalate:
 
 4) Python 3: https://www.python.org/downloads/
 
-📘 [Ghid Android (HTML)](Guides/Android.htm)  
-🖥️ [Ghid Desktop (HTML)](Guides/Desktop.htm)
+📘 [Ghid Android](https://kristian1904.github.io/GhidUnaRetail/Guides/Android.htm)
+🖥️ [Ghid Desktop](https://kristian1904.github.io/GhidUnaRetail/Guides/Desktop.htm)
