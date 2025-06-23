@@ -76,5 +76,5 @@ Asigură-te că ai instalate:
 
 4) Python 3: https://www.python.org/downloads/
 
-📘 [Vezi ghidul Android (HTML)](guides/Android.htm)  
-🖥️ [Vezi ghidul Desktop (HTML)](guides/Desktop.htm)
+📘 [Ghid Android (HTML)](Guides/Android.htm)  
+🖥️ [Ghid Desktop (HTML)](Guides/Desktop.htm)
